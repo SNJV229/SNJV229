@@ -1,4 +1,4 @@
-### Hi there, I am Sanjeev Kumar , Persuing BE-CSE from MVJ COLLEGE OF ENGINEERING 👋
+### Hi there, I am Sanjeev Kumar , Completed BE-CSE from MVJ COLLEGE OF ENGINEERING 👋
 
 
 Here are some ideas to get you started:
