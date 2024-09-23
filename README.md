@@ -1,7 +1,4 @@
-### Hi there, I am Sanjeev Kumar, with 2.8 years of development experience, I have a keen interest in learning new skills
-and staying up to date with the latest technologies. I am highly flexible with the technologies as I have worked
-on all of the latest and trending technologies. I have gained hands-on experience in developing robust and efficient
-applications along with system design and database schema following Agile methodology 👋
+### Hi there, I am Sanjeev Kumar, with 2.8 years of development experience, I have a keen interest in learning new skills and staying up to date with the latest technologies. I am highly flexible with the technologies as I have worked on all of the latest and trending technologies. I have gained hands-on experience in developing robust and efficient applications along with system design and database schema following Agile methodology 👋
 
 
 Here are some ideas to get you started:
